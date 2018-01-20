@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "es2017", "dom"
+    ],
+    "jsx": "react",
+    "sourceMap": true
+  },
+  "exclude": [
+    "./src/useless"
+  ]
+
+}
